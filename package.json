@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "VueJS boilerplate with routing and vuex",
   "author": "antti sirkiä <antti.sirkia@futurice.com>",
-  "private": false,
+  "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
